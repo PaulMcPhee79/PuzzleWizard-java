@@ -1,0 +1,162 @@
+Puzzle Wizard,Puzzle Zauberer
+First Steps,Erste Schritte
+Color Swap,Farbentausch
+Color Shield,Farbenschild
+Conveyor Belt,Fließband
+Rotator,Karussell
+Color Flood,Farbenflut
+White Tile,Weiße Kachel
+Mirror Image,Spiegelbild
+Color Swirl,Farbenwirbel
+Tile Swap,Kacheltausch
+Color Magic,Farbenzauber
+Wizard,Zauberer
+Yellow Brick Road,Der gelbe Ziegelsteinweg
+Coat of Arms,Wappen
+Evil Sunflower,Boshafte Sonnenblume
+Oasis,Oase
+Team Colors,Mannschafts Farben
+Jack-o'-Lantern,Halloweenkürbis
+River Crossing,Flussquerung
+Intersection,Straßenkreuzung
+City Skyline,Stadtsilhouette
+Rainbow,Regenbogen
+A Bridge Too Far,Die Brücke von Arnheim
+Tapestry,Wandteppich
+The Key Within,Der goldene Schlüssel
+Life Buoy,Rettungsring
+Apple,Apfel
+Mineshaft,Bergwerk
+The Empire,Das Imperium
+Retro Gamer,Pong
+Roswell,Roswell
+X Marks the Spot,Beim Kreuz ist der Schatz
+Ravine,Abgrund
+Butterfly,Schmetterling
+The Plumber,Klempner
+Falling Blocks,Stein auf Stein
+Castle Capers,Burgenstürmer
+The Vault,Schatzkammer
+Anchored,Anker
+Yin and Yang,Yin und Yang
+Green Fin,Goldfisch
+Palace Gardens,Palastgarten
+Turtle,Schildkröte
+Pipes,Rohre
+Valentine,Verliebt
+Musical,Musik in der Luft
+Patchwork Quilt,Karomuster
+Ballpark,Bolzplatz
+My Precious,Mein Schatz
+Acid Rain,Säureregen
+Potion,Zaubertrank
+Cup o' Joe,Käffchen
+Clown Face,Clown
+Ice Cream Sundae,Eisbecher
+Opposites Attract,Anziehende Gegensätze
+He Slimed Me,Gespenst
+Hourglass,Sanduhr
+Swedish Cloth,Schweden
+Bullseye,Volltreffer
+Time Travel,Zeitreise
+Sandpit,Sandkasten
+Lily Pads,Seerosen
+Bikini,Bikini
+Wristwatch,Armbanduhr
+Humble Abode,Bescheidenes Heim
+Dojo,Dojo
+The Four Pillars,Vier Säulen der Macht
+Downstream,Stromabwärts
+Kaleidoscope,Kaleidoskop
+Woven,Verstrickt
+Trojan Horse,Trojanisches Pferd
+Bow Tie,Fliege
+Jigsaw,Puzzleteile
+Blue Pill Red Pill,Blaue oder rote Pille
+Greener Pastures,Grüne Wiesen
+The Pit,Die Grube
+Smiley,Smiley
+Par 5,Par 5
+Martini,Martini
+Red Door,Die rote Tür
+Fortune Cookie,Glückskeks
+Giraffe,Giraffe
+Propeller,Propeller
+Emerald Stairway,Smaragdtreppe
+Resume,Fortsetzen
+Options,Optionen
+Credits,Mitwirkende
+Exit Game,Spiel beenden
+Reset Puzzle,Puzzle zurücksetzen
+Puzzle Menu,Puzzle-Menü
+Level Menu,Level-Menü
+back,zurück
+Back,Zurück
+Congratulations!,Glückwunsch!
+New level unlocked!,Neues Level freigeschaltet!
+Level,Level
+Completed,gemeistert!
+Master of Color,Meister der Farbe
+Yay,Yeah
+OK,O. K.
+Yes,Ja
+No,Nein
+Unlock with,Freischalten mit
+in ,in 
+Total Progress:,Gesamtfortschritt:
+Next Unsolved Puzzle,Nächstes ungelöstes Puzzle
+? moves remaining,? Züge verbleibend
+? move remaining,? Züge verbleibend
+Game Design,Game-Design
+Code,Code
+Art,Grafik
+Sound Design,Sound-Design
+UI Design,UI-Design
+QA Lead,Leitung QS
+a game by,Ein Spiel von
+Adrian McPhee,Adrian McPhee
+Paul McPhee,Paul McPhee
+Chen Shin,Chen Shin
+Dean Spencer,Dean Spencer
+Talia Tsur,Talia Tsur
+Daniel Beck,Daniel Beck
+Cheeky Mammoth,Cheeky Mammoth
+"The tale of room 620"^Ehren Starks & Kate Gurba,"The tale of room 620"^Ehren Starks & Kate Gurba
+"Sunset in Pensacola"^Ehren Starks & Kate Gurba,"Sunset in Pensacola"^Ehren Starks & Kate Gurba
+"Slippolska"^Erik Ask Upmark,"Slippolska"^Erik Ask Upmark
+"Florellen"^Erik Ask Upmark,"Florellen"^Erik Ask Upmark
+"Blekingarna"^Erik Ask Upmark,"Blekingarna"^Erik Ask Upmark
+"Virgin Light"^Cheryl Ann Fulton,"Virgin Light"^Cheryl Ann Fulton
+"Hidden Sky"^Jami Sieber,"Hidden Sky"^Jami Sieber
+Keep new display^settings?,Neue Anzeige-Einstellungen^beibehalten?
+Reverting in ? seconds,Zurücksetzen in ? Sekunden
+Are you sure?,Bist du sicher?
+Language,Sprache
+0,0
+1,1
+2,2
+3,3
+4,4
+5,5
+6,6
+7,7
+8,8
+9,9
+/,/
+:,:
+.,.
+!,!
+?,?
+(,(
+),)
+ , 
+Music,Musik
+Sfx,SFX
+Color Blind Mode: On,Farbenblind-Modus : Ein
+Color Blind Mode: Off,Farbenblind-Modus : Aus
+Display,Anzeige
+Windowed,Fenster
+Fullscreen,Vollbild
+Buy Now,Jetzt kaufen
+Demo,Demo
+Buy the full version for access to all^12 levels and a chance to join a select^group of master puzzlers who have^conquered the challenges of^Puzzle Wizard.,Kaufe die Vollversion, um alle 12 Levels^zu spielen und die Chance zu erhalten, einer^auserwählten Gruppe von meisterlichen^Puzzlespielern anzugehören, die alle Aufgaben in^Puzzle Zauberer gemeistert haben.

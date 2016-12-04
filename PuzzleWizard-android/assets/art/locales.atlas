@@ -1,0 +1,117 @@
+
+locales.png
+format: RGBA8888
+filter: MipMapLinearNearest,Linear
+repeat: none
+lang-icon-cn
+  rotate: false
+  xy: 845, 6
+  size: 120, 120
+  orig: 152, 120
+  offset: 0, 0
+  index: -1
+lang-icon-de
+  rotate: false
+  xy: 967, 6
+  size: 120, 120
+  orig: 152, 120
+  offset: 0, 0
+  index: -1
+lang-icon-en
+  rotate: false
+  xy: 1089, 6
+  size: 120, 120
+  orig: 152, 120
+  offset: 0, 0
+  index: -1
+lang-icon-es
+  rotate: false
+  xy: 1211, 6
+  size: 120, 120
+  orig: 152, 120
+  offset: 0, 0
+  index: -1
+lang-icon-fr
+  rotate: false
+  xy: 1333, 6
+  size: 120, 120
+  orig: 152, 120
+  offset: 0, 0
+  index: -1
+lang-icon-it
+  rotate: false
+  xy: 1455, 6
+  size: 120, 120
+  orig: 152, 120
+  offset: 0, 0
+  index: -1
+lang-icon-jp
+  rotate: false
+  xy: 1577, 6
+  size: 120, 120
+  orig: 152, 120
+  offset: 0, 0
+  index: -1
+lang-icon-kr
+  rotate: false
+  xy: 1699, 6
+  size: 120, 120
+  orig: 152, 120
+  offset: 0, 0
+  index: -1
+lang-text-cn
+  rotate: false
+  xy: 729, 3
+  size: 114, 61
+  orig: 128, 120
+  offset: 6, 26
+  index: -1
+lang-text-de
+  rotate: false
+  xy: 205, 10
+  size: 207, 49
+  orig: 210, 120
+  offset: 0, 37
+  index: -1
+lang-text-en
+  rotate: false
+  xy: 2, 61
+  size: 306, 65
+  orig: 310, 120
+  offset: 1, 24
+  index: -1
+lang-text-es
+  rotate: false
+  xy: 535, 66
+  size: 198, 60
+  orig: 210, 120
+  offset: 0, 28
+  index: -1
+lang-text-fr
+  rotate: false
+  xy: 310, 63
+  size: 223, 63
+  orig: 230, 120
+  offset: 0, 26
+  index: -1
+lang-text-it
+  rotate: false
+  xy: 2, 8
+  size: 201, 51
+  orig: 210, 120
+  offset: 1, 38
+  index: -1
+lang-text-jp
+  rotate: false
+  xy: 414, 2
+  size: 167, 59
+  orig: 190, 120
+  offset: 12, 27
+  index: -1
+lang-text-kr
+  rotate: false
+  xy: 583, 13
+  size: 144, 51
+  orig: 160, 120
+  offset: 1, 35
+  index: -1

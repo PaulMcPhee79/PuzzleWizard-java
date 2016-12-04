@@ -1,0 +1,162 @@
+Puzzle Wizard,Puzzle Magicien
+First Steps,Premiers pas
+Color Swap,Échange de couleur
+Color Shield,Bouclier
+Conveyor Belt,Tapis roulant
+Rotator,Pivotement
+Color Flood,Inondation
+White Tile,Carreau blanc
+Mirror Image,Image inversée
+Color Swirl,Tourbillon
+Tile Swap,Échange de carreau
+Color Magic,Magie des couleurs
+Wizard,Magicien
+Yellow Brick Road,Chemin doré
+Coat of Arms,Blason
+Evil Sunflower,Tournesol
+Oasis,Oasis
+Team Colors,Couleurs d'équipe
+Jack-o'-Lantern,Citrouille d'Halloween
+River Crossing,Deux rivières
+Intersection,Intersection
+City Skyline,Immeubles
+Rainbow,Arc-en-ciel
+A Bridge Too Far,Un pont trop loin
+Tapestry,Tapisserie
+The Key Within,Clé
+Life Buoy,Bouée
+Apple,Pomme
+Mineshaft,Puits de mine
+The Empire,L'empire
+Retro Gamer,Retrogaming
+Roswell,Roswell
+X Marks the Spot,Île au trésor
+Ravine,Ravin
+Butterfly,Papillon
+The Plumber,Plombier
+Falling Blocks,Blocs de couleur
+Castle Capers,Tour du donjon
+The Vault,Coffre-fort
+Anchored,Ancre
+Yin and Yang,Yin et yang
+Green Fin,Poisson
+Palace Gardens,Jardins du palais
+Turtle,Tortue
+Pipes,Tuyaux
+Valentine,Saint-Valentin
+Musical,Notes de musique
+Patchwork Quilt,Patchwork
+Ballpark,Baseball
+My Precious,Mon précieux
+Acid Rain,Pluie acide
+Potion,Potion
+Cup o' Joe,Tasse à café
+Clown Face,Clown
+Ice Cream Sundae,Coupe de glace
+Opposites Attract,Contraires
+He Slimed Me,Fantôme
+Hourglass,Sablier
+Swedish Cloth,Drapeau suédois
+Bullseye,Cible
+Time Travel,Voyage dans le temps
+Sandpit,Bac à sable
+Lily Pads,Nénuphars
+Bikini,Bikini
+Wristwatch,Montre
+Humble Abode,Doux logis
+Dojo,Dojo
+The Four Pillars,Quatre colonnes
+Downstream,Fleuve
+Kaleidoscope,Kaléidoscope
+Woven,Point de croix
+Trojan Horse,Cheval de Troie
+Bow Tie,Nœud papillon
+Jigsaw,Puzzle
+Blue Pill Red Pill,Pilule bleue pilule rouge
+Greener Pastures,Vers le vert
+The Pit,Fosse
+Smiley,Smiley
+Par 5,Par 5
+Martini,Martini
+Red Door,Porte rouge
+Fortune Cookie,Biscuit chinois
+Giraffe,Girafe
+Propeller,Hélice
+Emerald Stairway,Escalier d'émeraude
+Resume,Reprendre
+Options,Options
+Credits,Générique
+Exit Game,Quitter
+Reset Puzzle,Réinitialiser puzzle
+Puzzle Menu,Menu puzzle
+Level Menu,Menu niveau
+back,retour
+Back,Retour
+Congratulations!,Bravo !
+New level unlocked!,Nouveau niveau débloqué !
+Level,Niveau
+Completed,terminé
+Master of Color,Maître des couleurs
+Yay,Super
+OK,OK
+Yes,Oui
+No,Non
+Unlock with,Débloquer avec
+in ,dans 
+Total Progress:,Progression :
+Next Unsolved Puzzle,Puzzle non résolu suivant
+? moves remaining,? déplacements restants
+? move remaining,? déplacements restants
+Game Design,Conception
+Code,Code
+Art,Infographie
+Sound Design,Conception sonore
+UI Design,Conception interface
+QA Lead,Responsable AQ
+a game by,Un jeu
+Adrian McPhee,Adrian McPhee
+Paul McPhee,Paul McPhee
+Chen Shin,Chen Shin
+Dean Spencer,Dean Spencer
+Talia Tsur,Talia Tsur
+Daniel Beck,Daniel Beck
+Cheeky Mammoth,Cheeky Mammoth
+"The tale of room 620"^Ehren Starks & Kate Gurba,"The tale of room 620"^Ehren Starks & Kate Gurba
+"Sunset in Pensacola"^Ehren Starks & Kate Gurba,"Sunset in Pensacola"^Ehren Starks & Kate Gurba
+"Slippolska"^Erik Ask Upmark,"Slippolska"^Erik Ask Upmark
+"Florellen"^Erik Ask Upmark,"Florellen"^Erik Ask Upmark
+"Blekingarna"^Erik Ask Upmark,"Blekingarna"^Erik Ask Upmark
+"Virgin Light"^Cheryl Ann Fulton,"Virgin Light"^Cheryl Ann Fulton
+"Hidden Sky"^Jami Sieber,"Hidden Sky"^Jami Sieber
+Keep new display^settings?,Conserver les nouveaux paramètres^d'affichage ?
+Reverting in ? seconds,Annulation dans ? secondes
+Are you sure?,Confirmer ?
+Language,Langue
+0,0
+1,1
+2,2
+3,3
+4,4
+5,5
+6,6
+7,7
+8,8
+9,9
+/,/
+:,:
+.,.
+!,!
+?,?
+(,(
+),)
+ , 
+Music,Musique
+Sfx,Effets sonores
+Color Blind Mode: On,Mode daltonien: Activé
+Color Blind Mode: Off,Mode daltonien: Désactivé
+Display,Affichage
+Windowed,Fenêtre
+Fullscreen,Plein écran
+Buy Now,Acheter
+Demo,Démo
+Buy the full version for access to all^12 levels and a chance to join a select^group of master puzzlers who have^conquered the challenges of^Puzzle Wizard.,Achetez la version complète pour accéder^aux 12 niveaux et avoir la possibilité de rejoindre^le club fermé des experts de la réflexion qui ont^réussi tous les défis de Puzzle Magicien.

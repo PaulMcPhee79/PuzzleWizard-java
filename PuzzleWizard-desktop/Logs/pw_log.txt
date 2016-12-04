@@ -1,0 +1,43 @@
+com.badlogic.gdx.utils.GdxRuntimeException: com.badlogic.gdx.utils.GdxRuntimeException: Error reading pack file: art/menu.atlas
+	at com.badlogic.gdx.assets.AssetManager.handleTaskError(AssetManager.java:517)
+	at com.badlogic.gdx.assets.AssetManager.update(AssetManager.java:351)
+	at com.badlogic.gdx.assets.AssetManager.update(AssetManager.java:363)
+	at com.cheekymammoth.assets.ResourceManager.update(ResourceManager.java:28)
+	at com.cheekymammoth.sceneControllers.SceneController.tickContentLoad(SceneController.java:754)
+	at com.cheekymammoth.sceneControllers.SceneController.advanceTime(SceneController.java:763)
+	at com.cheekymammoth.sceneControllers.PlayfieldController.advanceTime(PlayfieldController.java:659)
+	at com.cheekymammoth.sceneControllers.GameController.advanceTime(GameController.java:249)
+	at com.cheekymammoth.puzzlewizard.PWAppListener.render(PWAppListener.java:49)
+	at com.badlogic.gdx.backends.lwjgl.LwjglApplication.mainLoop(LwjglApplication.java:206)
+	at com.badlogic.gdx.backends.lwjgl.LwjglApplication$1.run(LwjglApplication.java:113)
+Caused by: com.badlogic.gdx.utils.GdxRuntimeException: Error reading pack file: art/menu.atlas
+	at com.badlogic.gdx.graphics.g2d.TextureAtlas$TextureAtlasData.<init>(TextureAtlas.java:177)
+	at com.badlogic.gdx.assets.loaders.TextureAtlasLoader.getDependencies(TextureAtlasLoader.java:58)
+	at com.badlogic.gdx.assets.loaders.TextureAtlasLoader.getDependencies(TextureAtlasLoader.java:34)
+	at com.badlogic.gdx.assets.AssetLoadingTask.handleSyncLoader(AssetLoadingTask.java:98)
+	at com.badlogic.gdx.assets.AssetLoadingTask.update(AssetLoadingTask.java:87)
+	at com.badlogic.gdx.assets.AssetManager.updateTask(AssetManager.java:454)
+	at com.badlogic.gdx.assets.AssetManager.update(AssetManager.java:349)
+	... 9 more
+Caused by: java.lang.IllegalArgumentException: No enum constant com.badlogic.gdx.graphics.Pixmap.Format.2048,2048
+	at java.lang.Enum.valueOf(Unknown Source)
+	at com.badlogic.gdx.graphics.Pixmap$Format.valueOf(Pixmap.java:49)
+	at com.badlogic.gdx.graphics.g2d.TextureAtlas$TextureAtlasData.<init>(TextureAtlas.java:110)
+	... 15 more
+
+
+BEGIN SYSTEM INFO:
+java.vm.version: 25.51-b03
+java.vm.vendor: Oracle Corporation
+java.vm.name: Java HotSpot(TM) 64-Bit Server VM
+os.name: Windows 7
+os.arch: amd64
+os.version: 6.1
+
+BEGIN RUNTIME INFO:
+Free memory: 99185072
+Total memory: 128974848
+
+BEGIN GAME CONTEXT:
+Game Version: v0.6 b1310
+CRASH_CONTEXT_LOCALE: EN

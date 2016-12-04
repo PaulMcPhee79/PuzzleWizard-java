@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="assets"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/PuzzleWizard"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Libs/jars/gdx-backend-lwjgl-natives.jar"/>
+	<classpathentry kind="lib" path="/Libs/jars/gdx-backend-lwjgl.jar"/>
+	<classpathentry kind="lib" path="/Libs/jars/gdx-controllers.jar"/>
+	<classpathentry kind="lib" path="/Libs/jars/gdx-natives.jar"/>
+	<classpathentry kind="lib" path="/Libs/jars/gdx.jar"/>
+	<classpathentry kind="lib" path="/Libs/jars/PNGDecoder.jar"/>
+	<classpathentry kind="lib" path="libs/javax.mail.jar"/>
+	<classpathentry kind="lib" path="E:/PuzzleWizard/Libs/jars/gdxmu-all.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,162 @@
+Puzzle Wizard,El mago de los puzles
+First Steps,Primeros pasos
+Color Swap,Cambio de color
+Color Shield,Escudo de color
+Conveyor Belt,Cinta transportadora
+Rotator,Giro
+Color Flood,Inundación de color
+White Tile,Cuadro blanco
+Mirror Image,Reflejo
+Color Swirl,Remolino de color
+Tile Swap,Cambio de cuadros
+Color Magic,Magia de color
+Wizard,Mago
+Yellow Brick Road,Camino de baldosas amarillas
+Coat of Arms,Escudo de armas
+Evil Sunflower,Girasol malvado
+Oasis,Oasis
+Team Colors,Alirón
+Jack-o'-Lantern,Calabaza
+River Crossing,Cruzando el río
+Intersection,Intersección
+City Skyline,Horizonte urbano
+Rainbow,Arcoiris
+A Bridge Too Far,Un puente lejano
+Tapestry,Tapiz
+The Key Within,Amo de llaves
+Life Buoy,Salvavidas
+Apple,Manzana
+Mineshaft,Pozo minero
+The Empire,El Imperio
+Retro Gamer,Jugador retro
+Roswell,OVNI
+X Marks the Spot,La X marca el tesoro
+Ravine,Desfiladero
+Butterfly,Mariposa
+The Plumber,Fontanero
+Falling Blocks,Caída de Bloques
+Castle Capers,Asalta castillos
+The Vault,Cámara acorazada
+Anchored,Anclado
+Yin and Yang,Ying y Yang
+Green Fin,Aleta verde
+Palace Gardens,Jardines de palacio
+Turtle,Tortuga
+Pipes,Tuberías
+Valentine,Romántico
+Musical,Musical
+Patchwork Quilt,Retales
+Ballpark,Campo de béisbol
+My Precious,Mi tesoro
+Acid Rain,Lluvia ácida
+Potion,Poción
+Cup o' Joe,Taza de café
+Clown Face,Payaso
+Ice Cream Sundae,Bolas de helado
+Opposites Attract,Los opuestos se atraen
+He Slimed Me,Fantasma
+Hourglass,Reloj de arena
+Swedish Cloth,Bandera sueca
+Bullseye,Diana
+Time Travel,Teletransporte
+Sandpit,Cajón de arena
+Lily Pads,Nenúfares
+Bikini,Bikini
+Wristwatch,Reloj de pulsera
+Humble Abode,Humilde morada
+Dojo,Dojo
+The Four Pillars,Cuatro columnas
+Downstream,Río abajo
+Kaleidoscope,Caleidoscopio
+Woven,Tejido
+Trojan Horse,Caballo de troya
+Bow Tie,Pajarita
+Jigsaw,Rompecabezas
+Blue Pill Red Pill,Píldora roja píldora azul
+Greener Pastures,Verde hierba
+The Pit,El foso
+Smiley,Cara feliz
+Par 5,Par 5
+Martini,Martini
+Red Door,Puerta roja
+Fortune Cookie,Galleta de la fortuna
+Giraffe,Jirafa
+Propeller,Hélice
+Emerald Stairway,Escalera esmeralda
+Resume,Reanudar
+Options,Opciones
+Credits,Créditos
+Exit Game,Abandonar partida
+Reset Puzzle,Reiniciar puzle
+Puzzle Menu,Menú de puzles
+Level Menu,Menú de niveles
+back,atrás
+Back,Atrás
+Congratulations!,¡Enhorabuena!
+New level unlocked!,¡Siguiente nivel desbloqueado!
+Level,Nivel
+Completed,Completado
+Master of Color,Maestro del color
+Yay,¡Bien!
+OK,Aceptar
+Yes,Sí
+No,No
+Unlock with,Desbloquear con
+in ,en 
+Total Progress:,Progreso total:
+Next Unsolved Puzzle,Siguiente puzle no resuelto
+? moves remaining,Quedan ? movimientos
+? move remaining,Quedan ? movimiento
+Game Design,Diseño del juego
+Code,Código
+Art,Concepto artístico
+Sound Design,Diseño de sonido
+UI Design,Diseño de IU
+QA Lead,Jefe de control de calidad
+a game by,un juego de
+Adrian McPhee,Adrian McPhee
+Paul McPhee,Paul McPhee
+Chen Shin,Chen Shin
+Dean Spencer,Dean Spencer
+Talia Tsur,Talia Tsur
+Daniel Beck,Daniel Beck
+Cheeky Mammoth,Cheeky Mammoth
+"The tale of room 620"^Ehren Starks & Kate Gurba,"The tale of room 620"^Ehren Starks & Kate Gurba
+"Sunset in Pensacola"^Ehren Starks & Kate Gurba,"Sunset in Pensacola"^Ehren Starks & Kate Gurba
+"Slippolska"^Erik Ask Upmark,"Slippolska"^Erik Ask Upmark
+"Florellen"^Erik Ask Upmark,"Florellen"^Erik Ask Upmark
+"Blekingarna"^Erik Ask Upmark,"Blekingarna"^Erik Ask Upmark
+"Virgin Light"^Cheryl Ann Fulton,"Virgin Light"^Cheryl Ann Fulton
+"Hidden Sky"^Jami Sieber,"Hidden Sky"^Jami Sieber
+Keep new display^settings?,¿Quieres conservar los ajustes^de visualización?
+Reverting in ? seconds,Se restablecerán en ? segundos
+Are you sure?,¿Estás seguro?
+Language,Idiomas
+0,0
+1,1
+2,2
+3,3
+4,4
+5,5
+6,6
+7,7
+8,8
+9,9
+/,/
+:,:
+.,.
+!,!
+?,?
+(,(
+),)
+ , 
+Music,Música
+Sfx,Sonido
+Color Blind Mode: On,Modo para daltónicos: Sí
+Color Blind Mode: Off,Modo para daltónicos: No
+Display,Visualización
+Windowed,Ventana
+Fullscreen,Pantalla completa
+Buy Now,Cómpralo ya
+Demo,Demo
+Buy the full version for access to all^12 levels and a chance to join a select^group of master puzzlers who have^conquered the challenges of^Puzzle Wizard.,Compra la versión completa para acceder a los^12 niveles y unirte al grupo de maestros de los^puzles que han conquistado todos los desafíos^de El mago de los puzles.
