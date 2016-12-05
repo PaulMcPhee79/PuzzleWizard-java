@@ -1,2 +1,0 @@
-// Imagemagick
-convert in.png ( +clone -alpha Extract ) -channel RGB -compose Multiply -composite out.png
